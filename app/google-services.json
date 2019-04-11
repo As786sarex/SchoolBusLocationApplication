@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "567741959131",
+    "firebase_url": "https://trim-ruler-230313.firebaseio.com",
+    "project_id": "trim-ruler-230313",
+    "storage_bucket": "trim-ruler-230313.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567741959131:android:c8d3fb39ec35b7c3",
+        "android_client_info": {
+          "package_name": "com.wildcardenter.myfab.schoolbuslocation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "567741959131-oj8f90ifgnb0t37vmp2bidl3m2qu7mco.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wildcardenter.myfab.schoolbuslocation",
+            "certificate_hash": "bd94fc1198204962f81372f432c0a808da83f920"
+          }
+        },
+        {
+          "client_id": "567741959131-bls474bbgplnh04r3u4h1a9l9d9sjg0a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVhPFcIMY9vMGRRRTNW7wujg0if0KkyuQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "567741959131-bls474bbgplnh04r3u4h1a9l9d9sjg0a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

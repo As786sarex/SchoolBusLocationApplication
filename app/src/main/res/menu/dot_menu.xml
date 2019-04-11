@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:id="@+id/start_service" android:menuCategory="container" >
+        <item android:id="@+id/Service_Start" android:title="Enable Tracking"/>
+        <item android:title="Disable Tracking" android:id="@+id/Service_Stop" />
+    </group>
+
+</menu>
